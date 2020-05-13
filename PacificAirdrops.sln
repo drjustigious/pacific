@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PacificAirdrops", "PacificAirdrops\PacificAirdrops.vcxproj", "{FC9CC359-8FDF-416F-9556-F37D63D12D97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC9CC359-8FDF-416F-9556-F37D63D12D97}.Debug|x64.ActiveCfg = Debug|x64
+		{FC9CC359-8FDF-416F-9556-F37D63D12D97}.Debug|x64.Build.0 = Debug|x64
+		{FC9CC359-8FDF-416F-9556-F37D63D12D97}.Debug|x86.ActiveCfg = Debug|Win32
+		{FC9CC359-8FDF-416F-9556-F37D63D12D97}.Debug|x86.Build.0 = Debug|Win32
+		{FC9CC359-8FDF-416F-9556-F37D63D12D97}.Release|x64.ActiveCfg = Release|x64
+		{FC9CC359-8FDF-416F-9556-F37D63D12D97}.Release|x64.Build.0 = Release|x64
+		{FC9CC359-8FDF-416F-9556-F37D63D12D97}.Release|x86.ActiveCfg = Release|Win32
+		{FC9CC359-8FDF-416F-9556-F37D63D12D97}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8E96278-27DE-4CB0-822B-B14355D3941F}
+	EndGlobalSection
+EndGlobal
